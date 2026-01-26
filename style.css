@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    margin: 4%;
+    background-color: rgb(196, 255, 157);
+}
+
+.check {
+    padding:20px;
+    background-color: rgb(245, 255, 240);
+    border: 10px solid rgb(157, 174, 145)
+}
