@@ -43,3 +43,7 @@ body {
     background-color: rgb(245, 255, 240);
     border: 10px solid rgb(157, 174, 145)
 }
+
+.hov:hover {
+    color: gray;
+}
