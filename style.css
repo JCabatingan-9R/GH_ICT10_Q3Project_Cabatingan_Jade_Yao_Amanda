@@ -41,7 +41,9 @@ body {
 .check {
     padding:20px;
     background-color: rgb(245, 255, 240);
-    border: 10px solid rgb(157, 174, 145)
+    border: 10px solid rgb(157, 174, 145);
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .hov:hover {
