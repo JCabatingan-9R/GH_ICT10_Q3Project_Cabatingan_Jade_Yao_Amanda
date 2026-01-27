@@ -1,35 +1,7 @@
-ul {
+nav {
     background: linear-gradient(to right, #FFAB9C 0%, #FFF09C 25%, #DBFF9C 50%, #9CE1FF 100%)
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-    overflow: hidden;
-  background-color: #333333;
-}
-
-ul {
-  top: 0;
-  width: 100%;
-}
-
-ul li {
-  float: left;
-}
-
-ul li a {
-  display: block;
-  color: white;
-  text-align: left;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-ul li a:hover {
-  background-color: #111111;
-}
 
 body {
     text-align: center;
