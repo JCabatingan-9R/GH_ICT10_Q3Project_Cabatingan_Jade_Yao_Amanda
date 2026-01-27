@@ -9,11 +9,10 @@ body {
 }
 
 .check {
-    padding:20px;
+    padding: 20px;
     background-color: rgb(245, 255, 240);
     border: 10px solid rgb(157, 174, 145);
-    margin-left: 15%;
-    margin-right: 15%;
+
 }
 
 .hov:hover {
