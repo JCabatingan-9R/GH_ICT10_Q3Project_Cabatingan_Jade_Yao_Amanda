@@ -3,18 +3,18 @@ nav {
     margin-bottom: 60px;
 }
 
-nav-link:hover {
+.nav-link:hover {
     color: #555 !important;
 }
 
 body {
     text-align: center;
     background: linear-gradient(to bottom right, #f8f9fa, #e8f7ff);
-    font-damily: 'Segoe UI', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
 }
 
 .signup-card {
-    width: 200px;
+    width: 400px;
     border-radius: 20px;
     background-color: white;
     margin-top: 40px;
