@@ -76,5 +76,5 @@ def players(e):
     }
 
 
-    for team, members in teamsn.items():
+    for team in teams.items():
         display(f"<h3>{team}</h3>", target="output")
