@@ -63,3 +63,18 @@ def sign(e):
         elif sect == 'Topaz':
             display(f'Congratulations! You are part of the Yellow Tigers!', target='output')
             document.getElementById("image").innerHTML="<img src='yellow_tigers.jpg' height='300' width='350'>"
+
+
+def players(e):
+    document.getElementById("players").innerHTML = ""
+
+    teams = {
+        "Blue Bears": ["sectuin1", "section3", "section3"],
+        "Green Hornets": ["sectuin1", "section3", "section3"],
+        "Red Bulldogs": ["sectuin1", "section3", "section3"],
+        "Yellow Tigers": ["sectuin1", "section3", "section3"]
+    }
+
+
+    for team, members in teamsn.items():
+        display(f"<h3>{team}</h3>", target="output")
