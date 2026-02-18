@@ -63,4 +63,3 @@ def sign(e):
         elif sect == 'Topaz':
             display(f'Congratulations! You are part of the Yellow Tigers!', target='output')
             document.getElementById("image").innerHTML="<img src='yellow_tigers.jpg' height='300' width='350'>"
-
