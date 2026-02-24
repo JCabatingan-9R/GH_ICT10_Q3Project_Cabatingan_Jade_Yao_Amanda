@@ -32,13 +32,16 @@
 	    </ul>
 	  </div>
 	</nav>
-	
-    <div class="container">
-            <h1>Intramurals Players</h1>
-            <button type="button" class="btn btn-success" py-click="players">Check</button>
-        <div id="players">
 
-        </div>
-    </div>
+	<div class="container d-flex justify-content-center mt-5 mb-5">
+		<div class="card shadow-lg signup-card" style="padding:40px;">
+	        <form>
+	            <h1 class="text-center mb-4">Intramurals Players</h1>
+				<button type="button" class="btn btn-success" py-click="players">Check</button>
+				<p id="players"></p>
+			</form>
+		</div>
+	</div>
+				
     <py-script src="main.py"></py-script>
 </body>
