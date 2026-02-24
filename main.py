@@ -81,5 +81,5 @@ def players(e):
 
     students = ['1. Agena', '2. Ala', '3. Baring', '4. Baylon', '5. Brodhagen', '6. Cabatingan', '7. Canete', '8. Dimaculangan', '9. Evangelista', '10. Galang', '11. Garabiles', '12. Gonzales', '13. Jamet', '14. Ledesma', '15. Nacino', '16. Nardo', '17. Oliveros', '18. Olmedo', '19. Ong', '20. Rebadulla', '21. Reyes', '22. Sangreo', '23. Villafuerte', '24. Villegas', '25. Yao']
 
-        for player in students:
+    for player in students:
         display(player, target='players')
