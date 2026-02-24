@@ -68,17 +68,6 @@ def sign(e):
 def players(e):
     document.getElementById("players").innerHTML = ""
 
-    """teams = {
-        "Blue Bears": ["sectuin1", "section3", "section3"],
-        "Green Hornets": ["sectuin1", "section3", "section3"],
-        "Red Bulldogs": ["sectuin1", "section3", "section3"],
-        "Yellow Tigers": ["sectuin1", "section3", "section3"]
-    }
-
-
-    for team in teams:
-        display(f"<h3>{team}</h3>", target="output")"""
-
     students = ['1. Agena', '2. Ala', '3. Baring', '4. Baylon', '5. Brodhagen', '6. Cabatingan', '7. Canete', '8. Dimaculangan', '9. Evangelista', '10. Galang', '11. Garabiles', '12. Gonzales', '13. Jamet', '14. Ledesma', '15. Nacino', '16. Nardo', '17. Oliveros', '18. Olmedo', '19. Ong', '20. Rebadulla', '21. Reyes', '22. Sangreo', '23. Villafuerte', '24. Villegas', '25. Yao']
 
     for player in students:
